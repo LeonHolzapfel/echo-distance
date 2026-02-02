@@ -1,8 +1,8 @@
-# Ultrasonic Distance Measurement
+# Echo Distance Measurement
 A small device that can roughly measure distance with an HC-SR04 Ultrasonic sensor.
 
 # Parts needed
-Here is a list of the parts needed which in combination with the [Ultrasonic Distance Measurement](resources/Ultrasonic_Distance_Measurement.pdf) can be used to rebuild the Daylight Sensor.
+Here is a list of the parts needed which in combination with the [Echo Distance Measurement](resources/Echo_Distance_Measurement.pdf) can be used to rebuild the Echo Distance Measurement Device.
 
 |Name  |Quantity|Component                                 |
 |------|--------|------------------------------------------|
@@ -11,6 +11,6 @@ Here is a list of the parts needed which in combination with the [Ultrasonic Dis
 |DIST1 |1       | HC-SR04                                  |
 
 # Image
-Here is an example of the finished Daylight Sensor
+Here is an example of an finished Echo Distance Measurement Device.
 
-![Finished Ultrasonic Measurement](resources/Circuit.png)
+![Finished Echo Measurement](resources/Circuit.png)
